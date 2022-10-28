@@ -1,0 +1,8 @@
+C:\Users\José Roberto\Documents\SharpDevelop Projects\Jogo_Do_Dado13\Jogo_Do_Dado13\bin\Debug\Jogo_Do_Dado13.exe.config
+C:\Users\José Roberto\Documents\SharpDevelop Projects\Jogo_Do_Dado13\Jogo_Do_Dado13\bin\Debug\Jogo_Do_Dado13.exe
+C:\Users\José Roberto\Documents\SharpDevelop Projects\Jogo_Do_Dado13\Jogo_Do_Dado13\bin\Debug\Jogo_Do_Dado13.pdb
+C:\Users\José Roberto\Documents\SharpDevelop Projects\Jogo_Do_Dado13\Jogo_Do_Dado13\obj\Debug\Jogo_Do_Dado13.csprojResolveAssemblyReference.cache
+C:\Users\José Roberto\Documents\SharpDevelop Projects\Jogo_Do_Dado13\Jogo_Do_Dado13\obj\Debug\Jogo_Do_Dado13.MainForm.resources
+C:\Users\José Roberto\Documents\SharpDevelop Projects\Jogo_Do_Dado13\Jogo_Do_Dado13\obj\Debug\Jogo_Do_Dado13.csproj.GenerateResource.Cache
+C:\Users\José Roberto\Documents\SharpDevelop Projects\Jogo_Do_Dado13\Jogo_Do_Dado13\obj\Debug\Jogo_Do_Dado13.exe
+C:\Users\José Roberto\Documents\SharpDevelop Projects\Jogo_Do_Dado13\Jogo_Do_Dado13\obj\Debug\Jogo_Do_Dado13.pdb
