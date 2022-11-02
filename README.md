@@ -1,1 +1,1 @@
-# Jogo-do-Dado---Estilo-21
+Tem que baixar as imagens para funcionar. É nozes.
